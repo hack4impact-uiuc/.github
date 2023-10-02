@@ -1,6 +1,6 @@
 ---
 name: Developer issue
-about: Issue with description, learning objectives, todo, and useful links
+about: Issue with description, todos, and useful links
 title: ''
 labels: ''
 assignees: ''
@@ -8,19 +8,19 @@ assignees: ''
 
 ## Description
 
-## Learning objectives
+## Todos
 
-- Objective
+These points are rough guidelines. **Please** feel free to discuss the best way to design this component with others on the team!
 
-## Todo
-
-These points are a rough guideline. **Please** feel free to discuss with others on the team about the best way to design this component!
-
-- Todo
+- [ ] Todo
 
 ## Useful links
 
-- Useful link
+- 
+
+## Time estimate
+
+
 
 <!--
 Template sourced from https://github.com/hack4impact-uiuc/falling-fruit
